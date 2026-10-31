@@ -1,4 +1,4 @@
-package io.github.nivaldosilva.helpdesk.infra.config;
+package io.github.nivaldosilva.helpdesk.infra.bootstrap;
 
 import io.github.nivaldosilva.helpdesk.modules.usuario.Usuario;
 import io.github.nivaldosilva.helpdesk.modules.usuario.UsuarioRepository;
@@ -7,12 +7,12 @@ import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
 import org.springframework.security.crypto.password.PasswordEncoder;
+import org.springframework.stereotype.Component;
 
 @Slf4j
-@Configuration
+@Component
 @Profile("!teste")
 @RequiredArgsConstructor
 public class DataLoader {
