@@ -4,7 +4,7 @@ Sistema de chamados de suporte para empresas que atendem outras empresas. Centra
 
 - modules: reúne os módulos funcionais e suas respectivas regras de negócio.
 - common: contém componentes compartilhados entre os módulos.
-- infra: concentra configurações técnicas e de segurança.
+- infrastructure: concentra configurações técnicas e de segurança.
 
 ![Fluxo da API](images/fluxo-api.png)
 

@@ -1,9 +1,9 @@
-package io.github.nivaldosilva.helpdesk.infra.config;
+package io.github.nivaldosilva.helpdesk.infrastructure.config;
 
 import com.nimbusds.jose.jwk.JWKSet;
 import com.nimbusds.jose.jwk.RSAKey;
 import com.nimbusds.jose.jwk.source.ImmutableJWKSet;
-import io.github.nivaldosilva.helpdesk.infra.security.TokenValidator;
+import io.github.nivaldosilva.helpdesk.infrastructure.security.TokenValidator;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

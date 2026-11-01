@@ -1,4 +1,4 @@
-package io.github.nivaldosilva.helpdesk.infra.config;
+package io.github.nivaldosilva.helpdesk.infrastructure.config;
 
 import net.kaczmarzyk.spring.data.jpa.web.SpecificationArgumentResolver;
 import org.springframework.context.annotation.Configuration;

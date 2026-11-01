@@ -1,5 +1,8 @@
-package io.github.nivaldosilva.helpdesk.common.exception;
+package io.github.nivaldosilva.helpdesk.infrastructure.handler;
 
+import io.github.nivaldosilva.helpdesk.common.exception.AcessoNegadoAoRecursoException;
+import io.github.nivaldosilva.helpdesk.common.exception.OperacaoNaoPermitidaException;
+import io.github.nivaldosilva.helpdesk.common.exception.RegistroNaoEncontradoException;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.dao.DataIntegrityViolationException;

@@ -1,4 +1,4 @@
-package io.github.nivaldosilva.helpdesk.infra.security;
+package io.github.nivaldosilva.helpdesk.infrastructure.security;
 
 import io.github.nivaldosilva.helpdesk.modules.usuario.UsuarioRepository;
 import lombok.RequiredArgsConstructor;

@@ -1,4 +1,4 @@
-package io.github.nivaldosilva.helpdesk.infra.config;
+package io.github.nivaldosilva.helpdesk.infrastructure.config;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;

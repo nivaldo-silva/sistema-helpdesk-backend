@@ -1,4 +1,4 @@
-package io.github.nivaldosilva.helpdesk.infra.bootstrap;
+package io.github.nivaldosilva.helpdesk.infrastructure.bootstrap;
 
 import io.github.nivaldosilva.helpdesk.modules.usuario.Usuario;
 import io.github.nivaldosilva.helpdesk.modules.usuario.UsuarioRepository;

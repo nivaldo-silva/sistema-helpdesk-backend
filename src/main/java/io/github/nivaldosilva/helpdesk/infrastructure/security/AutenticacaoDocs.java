@@ -1,4 +1,4 @@
-package io.github.nivaldosilva.helpdesk.infra.security;
+package io.github.nivaldosilva.helpdesk.infrastructure.security;
 
 import io.github.nivaldosilva.helpdesk.modules.usuario.UsuarioDTO;
 import io.swagger.v3.oas.annotations.Operation;

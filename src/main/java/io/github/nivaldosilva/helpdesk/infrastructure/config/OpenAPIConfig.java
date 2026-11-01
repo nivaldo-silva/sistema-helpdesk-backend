@@ -1,4 +1,4 @@
-package io.github.nivaldosilva.helpdesk.infra.config;
+package io.github.nivaldosilva.helpdesk.infrastructure.config;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;

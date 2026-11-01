@@ -1,4 +1,4 @@
-package io.github.nivaldosilva.helpdesk.infra.security;
+package io.github.nivaldosilva.helpdesk.infrastructure.security;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonProperty;
